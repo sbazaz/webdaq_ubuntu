@@ -14,7 +14,7 @@
 
 ```sh
   cd ~
-  wget https://github.com/sbazaz/webdaq_ubuntu/raw/master/libulwd-ubuntu18-x64.0.0.1.b4.tar.bz2
+  wget https://github.com/sbazaz/webdaq_ubuntu/raw/main/libulwd-ubuntu18-x64.0.0.1.b4.tar.bz2
 ```
 
 4. Extract and install the driver:
