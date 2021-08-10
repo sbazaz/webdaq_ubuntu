@@ -1,4 +1,4 @@
-# WebDAQ Ubuntu 64-bit DAQ driver
+# WebDAQ Ubuntu 18.04 64-bit DAQ driver
 
 ## DAQ Library and Driver Installation
 
